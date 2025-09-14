@@ -395,4 +395,8 @@ h2:after{
         padding: 0rem 1rem;
         text-align: center;
     }   
+
+    div.Aboutheadsection div p{
+        font-size: 25px;
+    }
 }
